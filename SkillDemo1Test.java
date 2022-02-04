@@ -7,6 +7,6 @@ public class SkillDemo1Test {
     
     @Test 
     public void testAddition(){
-        assertEquals(8, SkillDemo1.add(5,8));
+        assertEquals(13, SkillDemo1.add(5,8));
     }
 }
